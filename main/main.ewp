@@ -1851,6 +1851,12 @@
         <name>$PROJ_DIR$\src\driver\gpio_out\gpio_out.c</name>
       </file>
     </group>
+    <group>
+      <name>timer</name>
+      <file>
+        <name>$PROJ_DIR$\src\driver\timer\timer.c</name>
+      </file>
+    </group>
   </group>
   <group>
     <name>EWARM</name>
